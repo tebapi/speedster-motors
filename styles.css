@@ -499,3 +499,13 @@ section, .sidebar, .hero, .service-item, .contact-form, .contact-info {
     }
 
 }
+/*table css*/
+.table-responsive {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.table-responsive table {
+  width: 100%;
+  min-width: 600px; /* or more depending on your table content */
+}
